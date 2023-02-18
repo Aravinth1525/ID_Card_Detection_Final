@@ -1,5 +1,6 @@
 # ID_Card_Detection_Final
 
+
 We've harnessed the power of TensorFlow object detection models to streamline the detection process, making manual verification a thing of the past. Our system utilizes annotation mechanisms, such as LabelImg, to target specific regions of interest, improving accuracy and efficiency. The potential applications of our project are numerous, including attendance tracking, access control, and security. Get ready to say goodbye to tedious manual verification and hello to our powerful ID card detection system!
 
 ### ID 
@@ -12,5 +13,7 @@ We've harnessed the power of TensorFlow object detection models to streamline th
 
 ### Training Model
 
-<img width="1550" alt="Screenshot 2023-02-17 at 8 47 51 PM" src="https://user-images.githubusercontent.com/91107646/219871443-1071dbdb-0ca9-4b5a-b6f8-2a5899c643a5.png">
+<img width="1550" alt="Screenshot 2023-02-17 at 8 47 51 PM" src="https://user-images.githubusercontent.com/79074310/219871974-1aa77389-478b-4341-aa78-0dc1c7fd9922.png">
+
+
 
