@@ -1,6 +1,6 @@
 # ID_Card_Detetction_Final
 
-### ID.  lsjrnbgkw
+### ID
 
 
 <img width="1046" alt="ID" src="https://user-images.githubusercontent.com/79074310/219865526-0e8bc1ff-828c-4ab4-983f-a68a62c98c48.png">
