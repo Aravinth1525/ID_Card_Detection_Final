@@ -1,7 +1,10 @@
 # ID_Card_Detection_Final
 
+Step 1 - ID Card Detection
 
 We've harnessed the power of TensorFlow object detection models to streamline the detection process, making manual verification a thing of the past. Our system utilizes annotation mechanisms, such as LabelImg, to target specific regions of interest, improving accuracy and efficiency. The potential applications of our project are numerous, including attendance tracking, access control, and security. Get ready to say goodbye to tedious manual verification and hello to our powerful ID card detection system !
+
+Step 2 - Face Detection
 
 ### ID 
 
