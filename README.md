@@ -6,6 +6,8 @@ We've harnessed the power of TensorFlow object detection models to streamline th
 
 ### Step 2 - [Face Detection](https://github.com/Aravinth1525/Face_Detection)
 
+### Step 3 - [Face Verification](https://github.com/Aravinth1525/Face_Recognition_GUI)
+
 # Output
 
 ### ID 
